@@ -24,3 +24,13 @@ Power BI is a business analytics tool developed by Microsoft that enables users 
 
 ## The Iteractive Dashboard for Chocolate Factory ## 
 ![Screenshot (300)](https://github.com/user-attachments/assets/a8a66fec-3991-4f80-bc7a-fc215d48f9e2)
+
+## Data Analysis based on selection of Sales-Person ##
+![Screenshot (345)](https://github.com/user-attachments/assets/1b129eb7-3770-4d09-85ac-a4e0efd59f72)
+
+## Data Analysis based on selection of Month_Name ##
+![Screenshot (348)](https://github.com/user-attachments/assets/f36a42f3-21cd-4ae1-ae0e-04f807334e50)
+  
+## Data Analysis based on selection of Product ##
+![Screenshot (346)](https://github.com/user-attachments/assets/b6ed2c88-8218-4c94-a507-ce0891298c00)
+
