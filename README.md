@@ -19,3 +19,8 @@ Power BI is a business analytics tool developed by Microsoft that enables users 
 - Power BI Service: A cloud-based platform for sharing and collaborating on reports and dashboards.
 - Power BI Mobile: Apps for viewing reports and dashboards on mobile devices.
 - Power BI Report Server: An on-premises solution for hosting and managing Power BI reports.
+
+# Output of Chocolate Business Dashboard # 
+
+## The Iteractive Dashboard for Chocolte Factory ## 
+![Screenshot (300)](https://github.com/user-attachments/assets/a8a66fec-3991-4f80-bc7a-fc215d48f9e2)
